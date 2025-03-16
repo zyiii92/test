@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="title_register_enter">註冊/登入</string>
+</resources>
